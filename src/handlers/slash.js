@@ -45,9 +45,9 @@ module.exports = async () => {
 
 /**
  * ======================================================
- * Developed by FlameQuard | https://flamequard.tech
+ * Developed by Aendir
  * ======================================================
- * Mention FlameQuard when you use this codes
+ * Mention Aendir when you use this codes
  * ======================================================
  * Give an awesome start to this repositories
  * ======================================================
