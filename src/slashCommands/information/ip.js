@@ -10,7 +10,7 @@ module.exports = {
      */
     run: async (client, interaction, args) => {
         const embed = new EmbedBuilder()
-            .setDescription(`👨‍💻 İP: https://cfx.re/join/rkblpg `)
+            .setDescription(`👨‍💻 İP:  `)
             .setColor('Red')
         interaction.reply({
             embeds: [embed]
