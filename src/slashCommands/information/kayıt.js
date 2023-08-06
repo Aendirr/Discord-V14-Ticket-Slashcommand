@@ -10,7 +10,7 @@ module.exports = {
      */
     run: async (client, interaction, args) => {
         const embed = new EmbedBuilder()
-            .setDescription(`👨‍💻 Kayıt Talebi İçin Başvurun Oluşturuldu. Mülakat Beklemeye Geçebilirsin. @here `)
+            .setDescription(`👨‍💻 Kayıt Talebi İçin Başvurun Oluşturuldu. `)
             .setColor('Red')
         interaction.reply({
             embeds: [embed]
